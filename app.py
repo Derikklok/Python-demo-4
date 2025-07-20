@@ -39,3 +39,12 @@ elif a==b:
     print("A is equals to B")
 else:
     print("B is greater than A")
+    
+# Operators - AND and
+
+num2 = 100
+num3 = 50
+num4 = 80
+
+if num2 > num3 and num2 > num4:
+    print("Num2 is big.")
