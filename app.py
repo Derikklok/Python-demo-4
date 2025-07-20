@@ -29,3 +29,13 @@ _name = "pasindu"
 print(Name)
 print(_name)
 
+# if - else and conditionals
+
+a=7
+b=10
+if a>b:
+    print("A is greater than B")
+elif a==b:
+    print("A is equals to B")
+else:
+    print("B is greater than A")

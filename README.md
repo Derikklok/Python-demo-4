@@ -2,3 +2,5 @@
 ```bash
     .\.venv\Scripts\Activate.ps1
 ```
+
+## Git branching
