@@ -1,0 +1,2 @@
+Hello from demo file!
+Now the file has more content!
