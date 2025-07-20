@@ -48,3 +48,21 @@ num4 = 80
 
 if num2 > num3 and num2 > num4:
     print("Num2 is big.")
+    
+
+a = 100
+b = 900
+c = 800
+
+if a>b or a>c:
+    print("A is bigger than at least one number")
+else:
+    print("A is not bigger")
+
+a = 40
+b = 60
+
+if not a > b:
+    print("A is not bigger than B")
+    
+
