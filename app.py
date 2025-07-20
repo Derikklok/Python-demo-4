@@ -19,3 +19,13 @@ print(type(num1))
 print(type(name))
 print(type(isLoading))
 print(type(price))
+
+
+# Naming conventions for variables
+# Can start with underscore character
+
+Name = "sachin"
+_name = "pasindu"
+print(Name)
+print(_name)
+
