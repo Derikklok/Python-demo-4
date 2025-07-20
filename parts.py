@@ -28,3 +28,5 @@ for x in range(3):
     print(x)
 
 
+myCat = "jiggy"
+print("Cat name is :")
